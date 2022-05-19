@@ -1,0 +1,20 @@
+{
+  "require": {
+    "php": ">=5.6.0",
+    "yiisoft/yii2": "~2.0.14"
+  },
+  "autoload": {
+    "psr-4": {
+      "yiiTools\\": "src"
+    }
+  },
+  "config": {
+    "process-timeout": 1800,
+    "fxp-asset": {
+      "enabled": false
+    },
+    "allow-plugins": {
+      "yiisoft/yii2-composer": true
+    }
+  }
+}
