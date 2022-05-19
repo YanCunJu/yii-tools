@@ -1,6 +1,7 @@
 {
   "name":"yancunju/yii-tools",
   "keywords": ["yii2"],
+  "license": "BSD-3-Clause",
   "require": {
     "php": ">=5.6.0",
     "yiisoft/yii2": "~2.0.14"
